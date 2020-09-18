@@ -1,0 +1,65 @@
+body{
+	background-color: white;
+
+
+}
+
+#head1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: #9c9b94;
+
+
+}
+#head2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #9c9b94;
+}
+#image1{
+	border-radius: 60px;
+
+
+}
+#box1{
+	background-color: #f5f4f2;
+	width:400px;
+	height: 400px;
+	box-shadow: 1px 1px 1px 1px #f5f4f2;
+
+}
+#text1{
+	width: 350px;
+	height: 45px;
+	background-color: white;
+	border-color: #f5f4f2;
+
+}
+#submit1{
+	width: 350px;
+	height: 45px;
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+
+
+}
+#need1{
+	float: right;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
